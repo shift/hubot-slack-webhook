@@ -9,11 +9,11 @@
 
   "repository": {
     "type": "git",
-    "url": "git://github.com/hubot-scripts/hubot-slack-webhook.git"
+    "url": "git://github.com/shift/hubot-slack-webhook.git"
   },
 
   "bugs": {
-    "url": "https://github.com/hubot-scripts/hubot-slack-webhook/issues"
+    "url": "https://github.com/shift/hubot-slack-webhook/issues"
   },
 
   "dependencies": {
